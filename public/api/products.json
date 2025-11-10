@@ -1,0 +1,716 @@
+[
+  {
+    "id": 1,
+    "name": "Dior Sauvage EDP",
+    "description": "A powerfully fresh men's fragrance with a raw freshness and nobility.",
+    "slug": "dior-sauvage-edp",
+    "brand": "Dior",
+    "image": {
+      "id": 1,
+      "thumbnail": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=85"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=85"
+      }
+    ],
+    "price": 110.00,
+    "sale_price": 89.99,
+    "category": "men",
+    "quantity": 45,
+    "tags": ["woody", "fresh", "masculine"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "60ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chanel Coco Mademoiselle",
+    "description": "A voluptuous, vibrant ambery fragrance for women with fresh citrus notes.",
+    "slug": "chanel-coco-mademoiselle",
+    "brand": "Chanel",
+    "sku": "CH-CCM-100ML-2024",
+    "image": {
+      "id": 2,
+      "thumbnail": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=85"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=85"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?w=800&q=85"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=85"
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://images.pexels.com/photos/3018845/pexels-photo-3018845.jpeg?w=400",
+        "original": "https://images.pexels.com/photos/3018845/pexels-photo-3018845.jpeg?w=800"
+      }
+    ],
+    "price": 125.00,
+    "sale_price": 108.00,
+    "category": {
+      "id": 2,
+      "name": "Women's Perfumes",
+      "slug": "women"
+    },
+    "quantity": 32,
+    "tags": [
+      {
+        "id": 1,
+        "name": "Floral",
+        "slug": "floral"
+      },
+      {
+        "id": 2,
+        "name": "Elegant",
+        "slug": "elegant"
+      },
+      {
+        "id": 3,
+        "name": "Feminine",
+        "slug": "feminine"
+      },
+      {
+        "id": 4,
+        "name": "Citrus",
+        "slug": "citrus"
+      }
+    ],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Eau de Parfum",
+        "attribute": {
+          "id": 2,
+          "name": "Type",
+          "slug": "type"
+        }
+      }
+    ],
+    "meta": [
+      {
+        "id": 1,
+        "title": "Description",
+        "content": "Chanel Coco Mademoiselle is a vibrant and voluptuous fragrance that embodies the spirit of a bold, independent woman. This iconic scent opens with sparkling notes of fresh orange and bergamot, creating an energetic introduction. The heart reveals elegant floral notes of rose and jasmine, adding sophistication and femininity. The base features warm patchouli, vetiver, and white musk, creating a sensual and long-lasting finish. Perfect for the modern woman who exudes confidence and grace.\n\nBrand: Chanel\nBrand Category: Women's Fragrance\nGender: Male\nFragrance Notes – Top: Lemon, Pink Pepper, Apple, Bergamol, Blackcurrant (Berries).\nFragrance Notes – Heart: Pineapple, Jasmine, Patchouli (Indonesia).\nFragrance Notes - Base: Birch, Ambergris, Cedarwood, Oakmoss, Musk.\nBottle Type: Spray\nScent: Fresh\nEAN: 3506040561114\nWe only sell 100% original perfumes, always in stock and sourced from trusted suppliers."
+      },
+      {
+        "id": 2,
+        "title": "Shipping & Return",
+        "content": "Free delivery in 1-2 business days\nEstimated between Mon, 10 Nov and Tue, 11 Nov\nDelivery times may vary slightly depending on your location, weather conditions, and the courier's schedule.\n\nFree Returns\n30 Day | Free Return\nItem can be returned in its original condition for a full refund within 30 days of receipt."
+      },
+      {
+        "id": 3,
+        "title": "Refund Policy",
+        "content": "We accept returns within 30 days of delivery. Items must be unused, in their original condition, and in the original packaging. To initiate a return, please contact our customer service team with your order number. Refunds will be processed within 5-7 business days after we receive the returned item. Please note that original shipping costs are non-refundable. If you receive a damaged or defective item, we will cover the return shipping costs and provide a full refund or replacement."
+      },
+      {
+        "id": 4,
+        "title": "Customer Reviews",
+        "content": "Based on 189 reviews. Average rating: 4.8/5 stars. Customers love the elegant, sophisticated scent and excellent longevity. 'My signature scent for years!' - Emily R."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tom Ford Black Orchid",
+    "description": "A luxurious and sensual unisex fragrance with dark florals and rich spices.",
+    "slug": "tom-ford-black-orchid",
+    "brand": "Tom Ford",
+    "sku": "TF-BO-100ML-2024",
+    "image": {
+      "id": 3,
+      "thumbnail": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=800&q=85"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=800&q=85"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=85"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=85"
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=800&q=85"
+      }
+    ],
+    "price": 180.00,
+    "sale_price": 165.00,
+    "category": {
+      "id": 3,
+      "name": "Unisex Perfumes",
+      "slug": "unisex"
+    },
+    "quantity": 20,
+    "tags": [
+      {
+        "id": 1,
+        "name": "Oriental",
+        "slug": "oriental"
+      },
+      {
+        "id": 2,
+        "name": "Luxury",
+        "slug": "luxury"
+      },
+      {
+        "id": 3,
+        "name": "Intense",
+        "slug": "intense"
+      },
+      {
+        "id": 4,
+        "name": "Dark Florals",
+        "slug": "dark-florals"
+      }
+    ],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "Eau de Parfum",
+        "attribute": {
+          "id": 2,
+          "name": "Type",
+          "slug": "type"
+        }
+      }
+    ],
+    "meta": [
+      {
+        "id": 1,
+        "title": "Description",
+        "content": "Tom Ford Black Orchid is a luxurious and sensual fragrance that evokes the allure of the iconic black orchid flower. This modern classic opens with bold notes of black truffle, ylang-ylang, and fresh bergamot, creating an exotic and intriguing introduction. The heart features rich black orchid, dark florals, and spicy accords that add depth and mystery. The base is a warm, sensual blend of patchouli, incense, amber, vetiver, and dark chocolate, creating a lasting impression that's both sophisticated and seductive. Perfect for those who dare to be different and make a statement.\n\nBrand: Tom Ford\nBrand Category: Unisex Fragrance\nGender: Unisex\nFragrance Notes – Top: Black Truffle, Ylang-Ylang, Bergamot.\nFragrance Notes – Heart: Black Orchid, Dark Florals, Spicy Accords.\nFragrance Notes - Base: Patchouli, Incense, Amber, Vetiver, Dark Chocolate.\nBottle Type: Spray\nScent: Oriental Floral\nWe only sell 100% original perfumes, always in stock and sourced from trusted suppliers."
+      },
+      {
+        "id": 2,
+        "title": "Shipping & Return",
+        "content": "Free delivery in 1-2 business days\nEstimated between Mon, 10 Nov and Tue, 11 Nov\nDelivery times may vary slightly depending on your location, weather conditions, and the courier's schedule.\n\nFree Returns\n30 Day | Free Return\nItem can be returned in its original condition for a full refund within 30 days of receipt."
+      },
+      {
+        "id": 3,
+        "title": "Refund Policy",
+        "content": "We accept returns within 30 days of delivery. Items must be unused, in their original condition, and in the original packaging. To initiate a return, please contact our customer service team with your order number. Refunds will be processed within 5-7 business days after we receive the returned item. Please note that original shipping costs are non-refundable. If you receive a damaged or defective item, we will cover the return shipping costs and provide a full refund or replacement."
+      },
+      {
+        "id": 4,
+        "title": "Customer Reviews",
+        "content": "Based on 156 reviews. Average rating: 4.9/5 stars. Customers love the unique, luxurious scent and exceptional longevity. 'Best perfume I've ever owned!' - Sarah M."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Giorgio Armani Acqua di Giò",
+    "description": "A marine-inspired fragrance for men, fresh and aquatic.",
+    "slug": "giorgio-armani-acqua-di-gio",
+    "brand": "Giorgio Armani",
+    "image": {
+      "id": 4,
+      "thumbnail": "https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=800&q=85"
+    },
+    "gallery": [],
+    "price": 98.00,
+    "sale_price": 82.00,
+    "category": "men",
+    "quantity": 52,
+    "tags": ["fresh", "aquatic", "marine"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "75ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "125ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Calvin Klein CK One",
+    "description": "A fresh, unisex fragrance that's light, clean and contemporary.",
+    "slug": "calvin-klein-ck-one",
+    "brand": "Calvin Klein",
+    "image": {
+      "id": 5,
+      "thumbnail": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?w=400",
+      "original": "https://images.pexels.com/photos/3059609/pexels-photo-3059609.jpeg?w=800"
+    },
+    "gallery": [],
+    "price": 42.00,
+    "sale_price": 35.00,
+    "category": "unisex",
+    "quantity": 65,
+    "tags": ["fresh", "citrus", "unisex"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Creed Aventus",
+    "description": "A sophisticated and powerful fragrance celebrating strength and success.",
+    "slug": "creed-aventus",
+    "brand": "Creed",
+    "image": {
+      "id": 6,
+      "thumbnail": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=800&q=85"
+    },
+    "gallery": [],
+    "price": 385.00,
+    "sale_price": 345.00,
+    "category": "men",
+    "quantity": 15,
+    "tags": ["luxury", "fruity", "woody"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Valentino Donna Born in Roma",
+    "description": "A modern, haute couture floral fragrance for women.",
+    "slug": "valentino-donna-born-in-roma",
+    "brand": "Valentino",
+    "image": {
+      "id": 7,
+      "thumbnail": "https://images.pexels.com/photos/3018845/pexels-photo-3018845.jpeg?w=400",
+      "original": "https://images.pexels.com/photos/3018845/pexels-photo-3018845.jpeg?w=800"
+    },
+    "gallery": [],
+    "price": 125.00,
+    "sale_price": 105.00,
+    "category": "women",
+    "quantity": 28,
+    "tags": ["floral", "modern", "feminine"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Prada Luna Rossa Carbon",
+    "description": "A powerful, fresh and modern fragrance for men.",
+    "slug": "prada-luna-rossa-carbon",
+    "brand": "Prada",
+    "image": {
+      "id": 8,
+      "thumbnail": "https://images.unsplash.com/photo-1528821128474-27f963b062bf?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1528821128474-27f963b062bf?w=800&q=85"
+    },
+    "gallery": [],
+    "price": 95.00,
+    "sale_price": 78.00,
+    "category": "men",
+    "quantity": 35,
+    "tags": ["fresh", "lavender", "modern"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Coach Floral Blush",
+    "description": "Cheer on your favorite red and white team in eye-popping style with these Classic Duodorant Body Spray. A feminine, fruity-floral fragrance that captures the essence of modern romance with refreshing citrus notes, delicate florals, and a warm, sensual base.",
+    "slug": "coach-floral-blush",
+    "brand": "Coach",
+    "sku": "CFB-90ML-2024",
+    "image": {
+      "id": 9,
+      "thumbnail": "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg?w=400",
+      "original": "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg?w=800"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg?w=400",
+        "original": "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg?w=800"
+      },
+      {
+        "id": 2,
+        "thumbnail": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=85"
+      },
+      {
+        "id": 3,
+        "thumbnail": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=85"
+      },
+      {
+        "id": 4,
+        "thumbnail": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1563170351-be82bc888aa4?w=800&q=85"
+      },
+      {
+        "id": 5,
+        "thumbnail": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?w=400&q=80",
+        "original": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?w=800&q=85"
+      }
+    ],
+    "price": 75.00,
+    "sale_price": 60.00,
+    "category": {
+      "id": 2,
+      "name": "Women's Perfumes",
+      "slug": "womens-perfumes"
+    },
+    "quantity": 42,
+    "tags": [
+      {
+        "id": 1,
+        "name": "Fruity",
+        "slug": "fruity"
+      },
+      {
+        "id": 2,
+        "name": "Floral",
+        "slug": "floral"
+      },
+      {
+        "id": 3,
+        "name": "Romantic",
+        "slug": "romantic"
+      },
+      {
+        "id": 4,
+        "name": "Bestseller",
+        "slug": "bestseller"
+      }
+    ],
+    "variations": [
+      {
+        "id": 1,
+        "value": "30ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 3,
+        "value": "90ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 4,
+        "value": "Eau de Parfum",
+        "attribute": {
+          "id": 2,
+          "name": "Type",
+          "slug": "type"
+        }
+      },
+      {
+        "id": 5,
+        "value": "Eau de Toilette",
+        "attribute": {
+          "id": 2,
+          "name": "Type",
+          "slug": "type"
+        }
+      }
+    ],
+    "meta": [
+      {
+        "id": 1,
+        "title": "Description",
+        "content": "Coach Floral Blush is a captivating feminine fragrance that celebrates modern femininity with a playful twist. This delightful scent opens with vibrant notes of juicy peach and refreshing lemon, creating an instant burst of energy. The heart reveals a beautiful bouquet of rose tea and gardenia, adding elegance and sophistication. The base notes of creamy musk and sandalwood provide a warm, sensual finish that lingers throughout the day."
+      },
+      {
+        "id": 2,
+        "title": "Shipping & Return",
+        "content": "Free shipping on orders over $100. Standard delivery takes 12-26 days internationally and 3-6 days within the United States. Returns accepted within 45 days of receipt. Items must be unused and in original packaging. Please contact us before returning."
+      },
+      {
+        "id": 3,
+        "title": "Customer Reviews",
+        "content": "Based on 24 reviews. Average rating: 4.8/5 stars. Customers love the fresh, romantic scent and long-lasting formula."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Carolina Herrera Good Girl",
+    "description": "A seductive and feminine fragrance with floral and gourmand notes.",
+    "slug": "carolina-herrera-good-girl",
+    "brand": "Carolina Herrera",
+    "image": {
+      "id": 10,
+      "thumbnail": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1588405748880-12d1d2a59db9?w=800&q=85"
+    },
+    "gallery": [],
+    "price": 118.00,
+    "sale_price": 95.00,
+    "category": "women",
+    "quantity": 30,
+    "tags": ["seductive", "floral", "gourmand"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "80ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Azzaro Wanted",
+    "description": "A fresh, woody spicy fragrance for the modern man.",
+    "slug": "azzaro-wanted",
+    "brand": "Azzaro",
+    "image": {
+      "id": 11,
+      "thumbnail": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=800&q=85"
+    },
+    "gallery": [],
+    "price": 72.00,
+    "sale_price": 58.00,
+    "category": "men",
+    "quantity": 48,
+    "tags": ["woody", "spicy", "fresh"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dior Jadore",
+    "description": "An iconic feminine fragrance with luminous floral notes.",
+    "slug": "dior-jadore",
+    "brand": "Dior",
+    "image": {
+      "id": 12,
+      "thumbnail": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400&q=80",
+      "original": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=85"
+    },
+    "gallery": [],
+    "price": 115.00,
+    "sale_price": 98.00,
+    "category": "women",
+    "quantity": 28,
+    "tags": ["floral", "iconic", "feminine"],
+    "variations": [
+      {
+        "id": 1,
+        "value": "50ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      },
+      {
+        "id": 2,
+        "value": "100ml",
+        "attribute": {
+          "id": 1,
+          "name": "Size",
+          "slug": "size"
+        }
+      }
+    ]
+  }
+]
