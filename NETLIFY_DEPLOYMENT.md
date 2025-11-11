@@ -75,6 +75,10 @@ If you need to add more environment variables, add them in:
 ### Error: "Base directory does not exist"
 - Clear the base directory field in Netlify dashboard (see instructions above)
 
+### Error: "No matching version found for @netlify/plugin-nextjs@4.38.2"
+- Fixed! Updated to version 4.41.3 (latest v4 stable)
+- Version 4.38.2 never existed on npm registry
+
 ### Error: "node: --openssl-legacy-provider is not allowed"
 - Fixed in latest commit (removed from netlify.toml)
 
