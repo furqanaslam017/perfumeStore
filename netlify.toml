@@ -4,8 +4,7 @@
 
 [build.environment]
   NEXT_PUBLIC_REST_API_ENDPOINT = "/api"
-  NODE_VERSION = "16"
-  NODE_OPTIONS = "--openssl-legacy-provider"
+  NODE_VERSION = "22"
   NETLIFY_NEXT_PLUGIN_VERSION = "4"
 
 [[plugins]]
